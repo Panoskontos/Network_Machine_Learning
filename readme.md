@@ -4,3 +4,4 @@
 
 ### the main.py file is a script to limit the stackoverflow.txt 
 
+### network_evolution_images are images of all my networks through time.
